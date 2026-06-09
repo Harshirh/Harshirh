@@ -1,112 +1,134 @@
-# Hi there! 👋 I'm Harshith
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Frontend+Developer+from+India;React+%26+Next.js+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
-</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshirh&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
-</p>
-
-## 🚀 About Me
-
-```javascript
-const harshith = {
-    location: "India 🇮🇳",
-    currentFocus: "Project Management System",
-    learning: ["Next.js", "MongoDB", "Advanced React Patterns"],
-    askMeAbout: ["React", "Frontend Development", "JavaScript"],
-    funFact: "Octopuses have three hearts, and two stop beating when they swim! 🐙",
-    contact: "velichelamalaharshith@gmail.com"
-};
+```
+╔══════════════════════════════════════════════════════════╗
+║  > whoami                                                ║
+║  harshith@india:~$ Frontend Developer                    ║
+║  > currently --building "Project Management System"      ║
+║  > stack --list react next.js mongodb node               ║
+║  > status: learning · building · shipping 🚀             ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-## 🔥 Current Projects
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=React+%26+Next.js+developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+things+that+actually+work;Fullstack+in+progress+%E2%80%94+one+commit+at+a+time" alt="Typing SVG" />
 
-🎯 **Project Management System** - Building a comprehensive solution using modern web technologies
+<br/>
 
-## 🌱 Learning Journey
-
-Currently diving deep into:
-- **Next.js** - Server-side rendering and full-stack capabilities
-- **MongoDB** - NoSQL database management
-- **Advanced React Patterns** - Hooks, Context, and Performance Optimization
-
-## 💡 Skills & Technologies
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Mobile & Other Technologies
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Tools & Design
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshirh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshirh&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshirh&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshirh&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshirh&theme=github-compact&hide_border=true" alt="Activity Graph" />
-</div>
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshith%20velichelamala)
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/harshith%20reddy%20velichalamala%20(ra2311003011347))
-[![HackerEarth](https://img.shields.io/badge/-HackerEarth-2C3E50?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@hv8030)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:velichelamalaharshith@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=harshirh&label=visitors&color=58A6FF&style=flat-square)](https://github.com/harshirh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/harshith%20velichelamala)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:velichelamalaharshith@gmail.com)
 
 </div>
 
 ---
 
+## ⚡ About
+
+I'm a frontend developer from India focused on building clean, performant web interfaces. Currently going deep on **Next.js + MongoDB** while working on a full-featured Project Management System from scratch.
+
+I enjoy the intersection of good design and solid engineering — if it works well but looks ugly, it's only half done.
+
+```js
+const harshith = {
+  location : "India 🇮🇳",
+  currently: "Project Management System",
+  learning : ["Next.js", "MongoDB", "Advanced React Patterns"],
+  reach_me : "velichelamalaharshith@gmail.com",
+  fun_fact  : "Octopuses have 3 hearts — 2 stop when they swim 🐙"
+}
+```
+
+---
+
+## 🔨 Currently Building
+
+> **Project Management System** — A comprehensive task and team management platform built with Next.js, MongoDB, and Node.js. Think Jira, but one I actually understand every line of.
+
+- 🟢 **Status:** In active development
+- 🧪 **Stack:** Next.js · MongoDB · Node.js · Tailwind CSS · TypeScript
+- 🎯 **Goal:** Ship a fully functional v1 with auth, boards, tasks, and team roles
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend** — where I spend most of my time
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Mobile & Other**
+
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" alt="Footer Wave" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshirh&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshirh&layout=compact&langs_count=6&theme=github_dark&hide_border=true" />
 </div>
 
 <div align="center">
-  
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+  <img src="https://streak-stats.demolab.com?user=harshirh&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</div>
 
-*Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on exciting projects! 🚀*
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshirh&theme=github-compact&hide_border=true&area=true" />
+</div>
+
+---
+
+## 🌱 Learning Path
+
+Things I'm actively working on getting better at:
+
+| Topic | Why |
+|---|---|
+| **Next.js App Router** | Building production-grade fullstack apps |
+| **MongoDB + Mongoose** | Designing flexible data models |
+| **React Performance** | Memoization, lazy loading, profiling |
+| **TypeScript (advanced)** | Generics, utility types, strict mode |
+
+---
+
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+**Open to collaborations · Always up for interesting problems · Let's build something.**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshith%20velichelamala)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/harshith%20reddy%20velichalamala%20(ra2311003011347))
+[![HackerEarth](https://img.shields.io/badge/-HackerEarth-2C3E50?style=flat-square&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@hv8030)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:velichelamalaharshith@gmail.com)
 
 </div>
